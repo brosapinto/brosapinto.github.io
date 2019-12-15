@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-pages-index-js","path":"/","result":{"data":{"site":{"siteMetadata":{"title":"Puzzled"}},"allMarkdownRemark":{"edges":[{"node":{"excerpt":"Is this thing on?","fields":{"slug":"/hello-world/"},"frontmatter":{"date":"December 15, 2019","title":"Hello World","description":""}}}]}},"pageContext":{"isCreatedByStatefulCreatePages":true}}}
